@@ -1,6 +1,10 @@
-# Movie Recommendation
+# Building Personal Movie Recommendation Systems
 
-This project creates movie recommendation reports for users based on their current ratings. 
+Ever wanted to know what movie you should watch next? This project creates movie recommendation reports for users based on their current ratings. 
+
+## The Data
+
+The data was directly provided, but can be found [here](https://github.com/jckett/Movie-Recommendation/tree/master/data). The *movies.csv* file consists of a list of movies and movie IDs, and the *ratings.csv* file consists of user IDs, movie IDs, movie ratings, and rating timestamps. 
 
 ## Technologies
 
